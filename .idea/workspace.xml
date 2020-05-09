@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8bb1ef6-c382-4aef-8392-ffd935feca74" name="Default Changelist" comment="" />
+    <list default="true" id="f8bb1ef6-c382-4aef-8392-ffd935feca74" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1afHS65jOw8bXGE9kFRB9z9Puv5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,7 +32,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../best-practices" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../russian-landing(no responsive)" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
   </component>
   <component name="SvnConfiguration">
@@ -41,7 +47,8 @@
       <updated>1587119724854</updated>
       <workItem from="1587119726577" duration="20742000" />
       <workItem from="1587193629978" duration="20290000" />
-      <workItem from="1587227498274" duration="494000" />
+      <workItem from="1587227498274" duration="1303000" />
+      <workItem from="1587316073108" duration="12000" />
     </task>
     <servers />
   </component>
@@ -53,9 +60,9 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="97" y="150" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1587214919519" />
-    <state x="423" y="247" key="FileChooserDialogImpl" timestamp="1587218200197">
+    <state x="423" y="247" key="FileChooserDialogImpl" timestamp="1587316082734">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="423" y="247" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1587218200197" />
+    <state x="423" y="247" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1587316082734" />
   </component>
 </project>
